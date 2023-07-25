@@ -1,6 +1,4 @@
 - rencana kedepannya
 - js
 - ruby 
-- figma
-- css
-- python
+- react js
