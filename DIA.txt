@@ -4,5 +4,8 @@
 - react js
 - bahasa inggris
 - data
-- c#
-- c++
+- php
+- figma
+- python
+- node js
+
