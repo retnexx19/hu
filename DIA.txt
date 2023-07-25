@@ -7,3 +7,4 @@
 - php
 - figma
 - python
+- node js
