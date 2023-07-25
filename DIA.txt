@@ -4,3 +4,5 @@
 - react js
 - bahasa inggris
 - data
+- c#
+- c++
