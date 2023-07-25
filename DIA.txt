@@ -1,0 +1,4 @@
+- rencana kedepannya
+- js
+- ruby 
+- react js
