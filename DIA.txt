@@ -2,3 +2,5 @@
 - js
 - ruby 
 - react js
+- bahasa inggris
+- data
