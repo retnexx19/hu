@@ -8,4 +8,6 @@
 - figma
 - python
 - node js
+- css
+
 
